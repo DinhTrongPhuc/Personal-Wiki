@@ -1,5 +1,5 @@
 
-> Thuộc chuỗi: [[Docker]] → [[Dockerfile]] → **Docker Compose** → [[Docker Deploy]]
+> Thuộc chuỗi: [[Docker]] → [[Dockerfile]] → **Docker Compose** 
 
 ---
 
@@ -686,4 +686,3 @@ docker compose -f base.yml -f dev.yml up -d
 
 - [[Docker]] — tổng quan, lệnh cơ bản, volume, network
 - [[Dockerfile]] — viết Dockerfile cho từng service
-- [[Docker Deploy]] — deploy stack lên server với Compose

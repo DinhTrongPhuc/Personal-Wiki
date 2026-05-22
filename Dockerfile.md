@@ -1,7 +1,6 @@
 
 
-> Thuộc chuỗi: [[Docker]] → **Dockerfile** → [[Docker Compose]] → [[Docker Deploy]]
-
+> Thuộc chuỗi: [[Docker]] → **Dockerfile** → [[Docker Compose]] 
 ---
 
 ## Dockerfile là gì?
@@ -501,4 +500,3 @@ docker run -it --rm --entrypoint sh image-name
 
 - [[Docker]] — tổng quan, lệnh cơ bản, volume, network
 - [[Docker Compose]] — kết hợp nhiều service với Dockerfile
-- [[Docker Deploy]] — build, push, deploy lên server
