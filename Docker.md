@@ -1,8 +1,9 @@
 
->Xem chi tiết từng phần:
+> Xem chi tiết từng phần:
 > 
 > - [[Dockerfile]] — viết Dockerfile, multi-stage build, tối ưu image
 > - [[Docker Compose]] — chạy nhiều service, môi trường dev/prod
+> - [[Docker Deploy]] — deploy VPS, Nginx, SSL, CI/CD
 
 ---
 
@@ -14,15 +15,15 @@
 
 ### Các khái niệm cốt lõi
 
-| Khái niệm              | Giải thích                                                          |
-| ---------------------- | ------------------------------------------------------------------- |
-| **Image**              | Bản thiết kế — snapshot của app + dependencies. Không thay đổi được |
-| **Container**          | Instance đang chạy từ Image — có thể start/stop/xóa                 |
-| **[[Dockerfile]]**     | File hướng dẫn cách build Image                                     |
-| **[[Docker Compose]]** | Công cụ chạy nhiều container cùng lúc                               |
-| **Volume**             | Lưu trữ data bền vững, không mất khi container bị xóa               |
-| **Network**            | Mạng nội bộ để các container giao tiếp với nhau                     |
-| **Registry**           | Kho chứa Image — Docker Hub, GitHub Container Registry...           |
+|Khái niệm|Giải thích|
+|---|---|
+|**Image**|Bản thiết kế — snapshot của app + dependencies. Không thay đổi được|
+|**Container**|Instance đang chạy từ Image — có thể start/stop/xóa|
+|**[[Dockerfile]]**|File hướng dẫn cách build Image|
+|**[[Docker Compose]]**|Công cụ chạy nhiều container cùng lúc|
+|**Volume**|Lưu trữ data bền vững, không mất khi container bị xóa|
+|**Network**|Mạng nội bộ để các container giao tiếp với nhau|
+|**Registry**|Kho chứa Image — Docker Hub, GitHub Container Registry...|
 
 ### VM vs Container
 
@@ -327,3 +328,4 @@ docker system df
 
 - [[Dockerfile]] — viết Dockerfile, multi-stage build, tối ưu image
 - [[Docker Compose]] — chạy nhiều service, dev vs prod
+- [[Docker Deploy]] — VPS, Nginx, SSL, CI/CD GitHub Actions

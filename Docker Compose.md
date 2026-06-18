@@ -1,5 +1,5 @@
 
-> Thuộc chuỗi: [[Docker]] → [[Dockerfile]] → **Docker Compose** 
+> Thuộc chuỗi: [[Docker]] → [[Dockerfile]] → [[Docker Compose]] → [[Docker Deploy]]
 
 ---
 
