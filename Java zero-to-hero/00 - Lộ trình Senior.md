@@ -1,7 +1,14 @@
 ---
 title: Lộ trình Java Backend Senior
-aliases: [MOC, Mục lục, Lộ trình Senior]
-tags: [java, spring-boot, moc, senior]
+aliases:
+  - MOC
+  - Mục lục
+  - Lộ trình Senior
+tags:
+  - java
+  - spring-boot
+  - moc
+  - senior
 created: 2026-10-08
 ---
 
