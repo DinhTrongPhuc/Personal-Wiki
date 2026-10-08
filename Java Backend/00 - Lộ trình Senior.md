@@ -1,14 +1,7 @@
 ---
 title: Lộ trình Java Backend Senior
-aliases:
-  - MOC
-  - Mục lục
-  - Lộ trình Senior
-tags:
-  - java
-  - spring-boot
-  - moc
-  - senior
+aliases: [MOC, Mục lục, Lộ trình Senior]
+tags: [java, spring-boot, moc, senior]
 created: 2026-10-08
 ---
 
@@ -51,10 +44,10 @@ Vault này bao phủ những gì một backend engineer cần biết từ lúc b
 - [[12 - Testing chuyên sâu]] ✅
 
 ### Phần 3: Hệ thống phân tán và vận hành
-- [[13 - Caching, Messaging và Resilience]] ⏳
-- [[14 - Microservices và Distributed Patterns]] ⏳
-- [[15 - Observability và Production]] ⏳
-- [[16 - Docker, Kubernetes và CI-CD]] ⏳
+- [[13 - Caching, Messaging và Resilience]] ✅
+- [[14 - Microservices và Distributed Patterns]] ✅
+- [[15 - Observability và Production]] ✅
+- [[16 - Docker, Kubernetes và CI-CD]] ✅
 - [[17 - Kiến trúc và System Design]] ⏳
 - [[18 - Performance và Troubleshooting]] ⏳
 
